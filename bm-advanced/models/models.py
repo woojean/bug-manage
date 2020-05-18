@@ -3,9 +3,9 @@
 # from odoo import models, fields, api
 
 
-# class bug-manage(models.Model):
-#     _name = 'bug-manage.bug-manage'
-#     _description = 'bug-manage.bug-manage'
+# class bm-advanced(models.Model):
+#     _name = 'bm-advanced.bm-advanced'
+#     _description = 'bm-advanced.bm-advanced'
 
 #     name = fields.Char()
 #     value = fields.Integer()
